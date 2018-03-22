@@ -1,0 +1,55 @@
+2018-03-22 14:12:36,689 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2018-03-22 14:12:36,715 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-03-22 14:12:36,716 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-03-22 14:12:36,723 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-03-22 14:12:36,723 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-03-22 14:12:36,723 INFO o.a.j.JMeter: java.version=1.8.0_101
+2018-03-22 14:12:36,723 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-03-22 14:12:36,723 INFO o.a.j.JMeter: os.name=Mac OS X
+2018-03-22 14:12:36,723 INFO o.a.j.JMeter: os.arch=x86_64
+2018-03-22 14:12:36,723 INFO o.a.j.JMeter: os.version=10.13.2
+2018-03-22 14:12:36,724 INFO o.a.j.JMeter: file.encoding=UTF-8
+2018-03-22 14:12:36,724 INFO o.a.j.JMeter: Max memory     =1073741824
+2018-03-22 14:12:36,724 INFO o.a.j.JMeter: Available Processors =4
+2018-03-22 14:12:36,728 INFO o.a.j.JMeter: Default Locale=English (EN)
+2018-03-22 14:12:36,729 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2018-03-22 14:12:36,729 INFO o.a.j.JMeter: JMeterHome=/Users/amrit/Downloads/apache-jmeter-4.0
+2018-03-22 14:12:36,729 INFO o.a.j.JMeter: user.dir  =/Users/amrit/Downloads/apache-jmeter-4.0/bin
+2018-03-22 14:12:36,729 INFO o.a.j.JMeter: PWD       =/Users/amrit/Downloads/apache-jmeter-4.0/bin
+2018-03-22 14:12:36,734 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: amrits-MacBook-Air.local FullName: 192.168.56.1
+2018-03-22 14:12:36,738 INFO o.a.j.s.FileServer: Default base='/Users/amrit/Downloads/apache-jmeter-4.0/bin'
+2018-03-22 14:12:36,744 INFO o.a.j.s.FileServer: Set new base='/Users/amrit/Downloads/apache-jmeter-4.0/bin'
+2018-03-22 14:12:36,933 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-03-22 14:12:36,953 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-03-22 14:12:36,959 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2018-03-22 14:12:36,966 INFO o.a.j.s.SaveService: Loading file: /Users/amrit/Downloads/apache-jmeter-4.0/bin/MyHomePage.jmx
+2018-03-22 14:12:37,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-03-22 14:12:37,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-03-22 14:12:37,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-03-22 14:12:37,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-03-22 14:12:37,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-03-22 14:12:37,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-03-22 14:12:37,053 INFO o.a.j.JMeter: Creating summariser <summary>
+2018-03-22 14:12:37,060 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-03-22 14:12:37,062 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-03-22 14:12:37,062 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-03-22 14:12:37,067 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-03-22 14:12:37,067 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-03-22 14:12:37,518 INFO o.a.j.JMeter: Running test (1521708157518)
+2018-03-22 14:12:37,575 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2018-03-22 14:12:37,575 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Users.
+2018-03-22 14:12:37,575 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-03-22 14:12:37,576 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=0 perThread=0.0 delayedStart=false
+2018-03-22 14:12:37,583 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-03-22 14:12:37,584 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-03-22 14:12:37,587 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2018-03-22 14:12:37,624 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = amrits-MacBook-Air.local
+2018-03-22 14:12:37,636 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2018-03-22 14:12:37,656 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-03-22 14:12:37,656 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-03-22 14:12:37,656 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-03-22 14:12:37,656 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-03-22 14:12:41,483 INFO o.a.j.t.JMeterThread: Thread is done: Users 1-1
+2018-03-22 14:12:41,483 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2018-03-22 14:12:41,486 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-03-22 14:12:41,488 INFO o.a.j.r.Summariser: summary =      1 in 00:00:04 =    0.3/s Avg:  3554 Min:  3554 Max:  3554 Err:     1 (100.00%)
